@@ -1,5 +1,5 @@
 const dir = "src/"
-const fileName = "advent-of-code-02-input.txt"
+const fileName = "aoc-02-input.txt"
 
 main()
 

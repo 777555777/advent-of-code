@@ -1,7 +1,7 @@
 const dir = "src/"
 const outDir = "src/out/"
-const fileName = "advent-of-code-06-input.txt"
-const outName = "advent-of-code-06-output.txt"
+const fileName = "aoc-06-input.txt"
+const outName = "aoc-06-output.txt"
 
 main()
 
